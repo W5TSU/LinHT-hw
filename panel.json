@@ -1,7 +1,6 @@
 {
     "tabs": {
-        "type": "full",
-        "patchcorners": "False"
+        "type": "annotation"
     },
     "cuts": {
         "type": "vcuts"
