@@ -897,7 +897,7 @@
         "uuid": "73efc1fc-21f6-4aef-9f73-508fe18fa32e"
       }
     ],
-    "used_designators": "#FLG4,TP17-22",
+    "used_designators": "TP17-22,#FLG4",
     "variants": []
   },
   "sheets": [

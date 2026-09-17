@@ -4628,7 +4628,7 @@
 				)
 			)
 		)
-		(property "PN" ""
+		(property "PN" "303-0402WGF1502TCE"
 			(at 96.52 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -4662,6 +4662,28 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 96.52 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 96.52 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
 			(at 96.52 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -4751,7 +4773,7 @@
 				)
 			)
 		)
-		(property "PN" ""
+		(property "PN" "303-0402WGF5101TCE"
 			(at 59.69 140.97 90)
 			(hide yes)
 			(show_name no)
@@ -4785,6 +4807,28 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 59.69 140.97 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 59.69 140.97 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
 			(at 59.69 140.97 90)
 			(hide yes)
 			(show_name no)
@@ -4874,7 +4918,7 @@
 				)
 			)
 		)
-		(property "PN" ""
+		(property "PN" "303-0402WGF5101TCE"
 			(at 59.69 143.51 90)
 			(hide yes)
 			(show_name no)
@@ -4908,6 +4952,28 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 59.69 143.51 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 59.69 143.51 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
 			(at 59.69 143.51 90)
 			(hide yes)
 			(show_name no)
@@ -5296,6 +5362,28 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 179.07 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 179.07 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f03833c4-4c82-4b47-ae98-830615ed7161")
 		)
@@ -5467,6 +5555,28 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 45.72 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 45.72 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9ce04a8f-b274-44b4-b611-3964b4024c03")
 		)
@@ -5625,6 +5735,28 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 54.61 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 54.61 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
 			(at 54.61 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -5961,6 +6093,28 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 72.39 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 72.39 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8d26fb9d-df9f-4af8-97e9-2b03b94fecb4")
 		)
@@ -6037,7 +6191,7 @@
 				)
 			)
 		)
-		(property "PN" ""
+		(property "PN" "303-0402WGF1000TCE"
 			(at 187.96 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -6071,6 +6225,28 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 187.96 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 187.96 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
 			(at 187.96 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -6165,6 +6341,28 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 81.28 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 81.28 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
 			(at 81.28 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -6329,7 +6527,7 @@
 				)
 			)
 		)
-		(property "PN" ""
+		(property "PN" "303-0402WGF1001TCE"
 			(at 171.45 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -6363,6 +6561,28 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 171.45 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 171.45 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
 			(at 171.45 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -6453,6 +6673,28 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 107.95 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 107.95 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
 			(at 107.95 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -6554,7 +6796,7 @@
 				)
 			)
 		)
-		(property "PN" ""
+		(property "PN" "303-0402WGF1003TCE"
 			(at 186.69 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -6588,6 +6830,28 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 186.69 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 186.69 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
 			(at 186.69 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -6692,6 +6956,28 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 72.39 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 72.39 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "813c85c0-bc71-410f-bafb-b577609f1545")
 		)
@@ -6770,6 +7056,28 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 196.85 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 196.85 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
 			(at 196.85 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -6868,7 +7176,7 @@
 				)
 			)
 		)
-		(property "PN" ""
+		(property "PN" "303-0402WGF1000TCE"
 			(at 182.88 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -6902,6 +7210,28 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 182.88 74.93 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 182.88 74.93 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
 			(at 182.88 74.93 90)
 			(hide yes)
 			(show_name no)
@@ -7036,6 +7366,28 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 64.77 135.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 64.77 135.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8a7a5b81-a3d5-4e7c-a754-0ef31517dcb4")
 		)
@@ -7150,6 +7502,28 @@
 		)
 		(property "LCSC Part" ""
 			(at 80.01 152.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 80.01 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 80.01 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7342,6 +7716,28 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 63.5 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 63.5 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4320f1e7-4305-4c9a-bd14-9b7db59848c0")
 		)
@@ -7423,6 +7819,28 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 81.28 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 81.28 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
 			(at 81.28 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -7789,6 +8207,28 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 88.9 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 88.9 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b34bae24-12e4-47eb-bbd1-0e52251c4a5d")
 		)
@@ -7990,6 +8430,28 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 39.37 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 39.37 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "A1"
 			(uuid "4d84a55c-7c93-49ab-9938-936db0142b92")
 		)
@@ -8129,6 +8591,28 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 63.5 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 63.5 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "028a6c0a-d54a-45d3-9a13-e7ebdaa7db67")
 		)
@@ -8218,6 +8702,28 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 137.16 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 137.16 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "79a71394-e625-43b0-9c14-5e01a45a0161")
 		)
@@ -8296,6 +8802,28 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 196.85 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 196.85 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
 			(at 196.85 106.68 0)
 			(hide yes)
 			(show_name no)

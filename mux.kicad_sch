@@ -1324,6 +1324,15 @@
 				(hide yes)
 			)
 		)
+		(property "PN" "303-0402WGF4702TCE"
+			(at 153.67 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3fe83f97-8c62-4b47-9845-7a103bfd2ad5")
 		)
@@ -2018,6 +2027,15 @@
 				(hide yes)
 			)
 		)
+		(property "PN" "303-0402WGF1000TCE"
+			(at 143.51 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "16a3e4ee-747d-43f3-9ad0-90be6e4e1dd7")
 		)
@@ -2078,6 +2096,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 143.51 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PN" "303-0402WGF1002TCE"
 			(at 143.51 101.6 0)
 			(effects
 				(font

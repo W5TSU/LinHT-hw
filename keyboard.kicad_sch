@@ -2403,7 +2403,7 @@
 				)
 			)
 		)
-		(property "PN" ""
+		(property "PN" "303-0402WGF4702TCE"
 			(at 165.1 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -2426,6 +2426,28 @@
 			)
 		)
 		(property "MPN" "0402WGF4702TCE"
+			(at 165.1 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 165.1 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
 			(at 165.1 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -2606,6 +2628,28 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 55.88 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 55.88 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "27a69361-e298-497b-b45d-512bd0954e22")
 		)
@@ -2684,6 +2728,28 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 55.88 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 55.88 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
 			(at 55.88 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -2784,7 +2850,7 @@
 				)
 			)
 		)
-		(property "PN" ""
+		(property "PN" "667-ERJ-PA2F1500X"
 			(at 154.94 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -2807,6 +2873,28 @@
 			)
 		)
 		(property "MPN" "ERJPA2F1500X"
+			(at 154.94 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 154.94 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
 			(at 154.94 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -3146,7 +3234,7 @@
 				)
 			)
 		)
-		(property "PN" ""
+		(property "PN" "303-0402WGF1000TCE"
 			(at 171.45 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -3169,6 +3257,28 @@
 			)
 		)
 		(property "MPN" "0402WGF1000TCE"
+			(at 171.45 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 171.45 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
 			(at 171.45 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -3348,6 +3458,28 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 55.88 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 55.88 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "527fae63-5afd-4eea-88b1-a2254f7f0b8a")
 		)
@@ -3436,6 +3568,28 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 55.88 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 55.88 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "af641070-2291-4f46-a574-0ef525df7fe7")
 		)
@@ -3502,7 +3656,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connectable mounting pin connector, single row, 01x16, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "16-position 0.5 mm pitch bottom-contact ZIF FFC/FPC connector, 2.0 mm height"
 			(at 123.19 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -3513,7 +3667,7 @@
 				)
 			)
 		)
-		(property "PN" ""
+		(property "PN" "798-FH12-16S-05SH55"
 			(at 123.19 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -3524,7 +3678,7 @@
 				)
 			)
 		)
-		(property "MPN" "AFC01-S16FCA-00"
+		(property "MPN" "FH12-16S-0.5SH(55)"
 			(at 123.19 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -3535,7 +3689,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C262665"
+		(property "LCSC" ""
 			(at 123.19 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -3547,6 +3701,28 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 123.19 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 123.19 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
 			(at 123.19 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -3693,6 +3869,28 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 55.88 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 55.88 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ac7ce14b-8f85-48be-aa3f-eaf8bbadfb50")
 		)
@@ -3809,6 +4007,28 @@
 			)
 		)
 		(property "LCSC Part" ""
+			(at 157.48 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 157.48 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
 			(at 157.48 95.25 0)
 			(hide yes)
 			(show_name no)
