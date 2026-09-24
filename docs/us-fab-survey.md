@@ -77,6 +77,37 @@ Y = published as supported. N = published as not supported. C = custom or offlin
 
 JLCPCB caveats: Standard PCBA needs a single board or panel of at least **70 × 70 mm**. The 45.5 × 96 single board fails, and so does the 67.5 × 118 kikit panel (67.5 < 70) [S40]. Economic PCBA is single-sided and offers ENIG only at 1.6 mm [S40]. Consigning the SoM means shipping it to Zhuhai with a customs service fee of about $45 [S44].
 
+### 3a. Requirement checklist: US finalists vs JLCPCB
+
+✅ = published as supported. ⚠️ = custom, borderline, or conditional. ❌ = published as not supported. — = not published. The ✅ count excludes the "US fab and US assembly" row, so JLCPCB is scored on capability alone.
+
+| Requirement | **Sierra** | Screaming + Sunstone | AdvancedPCB | Summit | JLCPCB (ref.) |
+|---|---|---|---|---|---|
+| US fab and US assembly | ✅ Sunnyvale / San Jose CA [S5][S7] | ✅ Oregon [S11][S15] | ✅ [S1c] | ✅ only if a US plant is specified [S22] | ❌ China [S40] |
+| 6-layer | ✅ [S6] | ✅ [S15] | ✅ [S4b] | ✅ [S22] | ✅ [S51] |
+| 1.0 mm ±10% | ⚠️ custom [S6] | ⚠️ custom [S16] | ⚠️ custom | — | ✅ standard option [S51] |
+| ENIG | ✅ [S6] | ✅ [S16] | — | ✅ [S22] | ✅ [S40] |
+| 6 mil trace / 4 mil space | ✅ online [S6] | ✅ online tier [S16] | ⚠️ "premium" below 7 mil [S4] | — | ✅ 3.5/3.5 mil at 1 oz [S51] |
+| 0.3 mm / 0.2 mm drills | ✅ / ✅ [S6] | ✅ / ⚠️ 0.008" minimum [S16] | ✅ / ✅ [S4] | — | ✅ / ✅ 0.15 mm minimum [S51] |
+| 0.4 mm pitch QFN | ✅ to 0.35 mm [S5] | ✅ to 0.35 mm [S11] | — (typo on page) [S2] | — (typo on page) [S21] | ✅ 0.35 mm standard [S40] |
+| Double-sided SMT | implied, not stated | not stated | ✅ [S2] | ✅ [S21] | ✅ Standard PCBA only [S40] |
+| Board/panel size for assembly | — | — | — | — | ⚠️ ≥70 × 70 mm; kikit panel is 67.5 mm wide [S40] |
+| Controlled impedance (RF/USB) | ✅ online, ±10% [S6] | ✅ [S16] | — | — | ⚠️ ±10%, but published 6-layer impedance stackups are 1.2/1.6/2.0 mm only [S51][S52] |
+| Copper ½ oz outer / 1 oz inner | — | — | — | — | ❌ multilayer outer is 1 oz minimum [S51] |
+| Turnkey / partial / consigned | ✅ [S5] | ✅ [S11] | ✅ [S2] | ✅ [S21] | ✅ turnkey; consigned parts need a China import (≈$45 customs fee) [S44] |
+| Qty 5 | ✅ min 1 [S10] | ✅ min 1 [S11] | ✅ no min [S3] | ✅ [S21] | ✅ min 2 [S40] |
+| Published consignment rules | ✅ $7 per line [S8] | ✅ no extra for parts ≥$5 [S12] | partial [S2] | vague ("adequate overages") [S21] | ✅ [S44] |
+| **✅ count (capability rows)** | **10** | **9** | **7** | **5** | **10** |
+
+**Reading:**
+- **Sierra** is the best technical fit among the US options. **Screaming + Sunstone** is close behind; its only borderline item is the five 0.2 mm vias.
+- **AdvancedPCB** confirms less on paper but is the only finalist that publishes no setup, NRE, or stencil charges [S3], so it may quote lowest.
+- **JLCPCB** matches Sierra on capability and is far cheaper, but it fails the US-made requirement. It also has three LinHT-specific conflicts:
+  - the 70 mm minimum panel width;
+  - no ½ oz outer copper;
+  - no published 1.0 mm impedance stackup.
+- For the copper and impedance conflicts, RF/USB trace widths would need recalculating for the stackup JLCPCB actually builds.
+
 ---
 
 ## 4. Per-fab notes
@@ -254,3 +285,5 @@ JLCPCB caveats: Standard PCBA needs a single board or panel of at least **70 × 
 - S48 https://oklahoma.gov/content/dam/ok/en/tax/documents/resources/rules-and-policies/agency-rules/Chapter65-2022.pdf (OAC 710:65-19-60) ; S48b same document, OAC 710:65-19-70
 - S49 https://oklahoma.gov/content/dam/ok/en/tax/documents/resources/publications/streamlines-sales-tax/WayfairFAQs-06152020.pdf
 - S50 https://oklahoma.gov/content/dam/ok/en/tax/documents/resources/publications/infographics/SalesTaxUseTax.pdf
+- S51 https://jlcpcb.com/capabilities/pcb-capabilities
+- S52 https://jlcpcb.com/impedance
