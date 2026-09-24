@@ -10,7 +10,7 @@ KiCad hardware design for LinHT, an open-source Linux SDR handheld (CompuLab MCM
 
 `make` builds everything into `build/` (fabrication files land in `build/web/files/`). Individual targets: `render`, `models`, `fabrication`, `side-fabrication`, `web`, `clean`.
 
-- The design files are **KiCad 10 format** (`version 20260206`). A local KiCad 9 `kicad-cli` cannot open them; the README's "KiCad 9.0" is stale. `make` also needs `kikit`, `xsltproc`, `jinja2` (jinja2-cli), and `python3 -m markdown`.
+- The design files are **KiCad 10 format** (`version 20260206`). A local KiCad 9 `kicad-cli` cannot open them. `make` also needs `kikit`, `xsltproc`, `jinja2` (jinja2-cli), and `python3 -m markdown`.
 - CI (`.github/workflows/main.yml`) runs plain `make` inside `ghcr.io/slintak/kicad-builder:latest` on every push and deploys `build/web/` to GitHub Pages from `main`. That container is the reference toolchain.
 - Gerbers come from the **kikit panel** (`panel.json`: v-cuts, 11 mm frame, fiducials, tooling holes), not the bare board. `kikit fab` runs with `--no-drc`, so the build never catches DRC errors; check DRC in KiCad yourself.
 - `kicad-cli pcb export step` exit code 2 (missing 3D models) is tolerated deliberately.
